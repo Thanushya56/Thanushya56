@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/zPfv0Xt/Data-Analyst-Banner.png" width="100%" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/Thanushya56/Thanushya56/main/Thanushya Elugam.png" width="100%" alt="banner"/>
 </p>
+
 
 <h1 align="center">👋 Hi, I'm <b>Thanushya Elugam</b></h1>
 <h3 align="center">Data Analyst | SQL | Python | Power BI | Machine Learning</h3>
