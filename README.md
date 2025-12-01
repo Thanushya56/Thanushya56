@@ -37,7 +37,7 @@
 ## 📌 Featured Projects
 | Project | Tools Used | Link |
 |---------|------------|------|
-| 📊 **Electric Vehicle Market Analysis Dashboard** | Power BI, Excel, ETL | 🔗 Coming Soon |
+| 📊 **Electric Vehicle Market Analysis Dashboard** | Power BI, Excel, ETL | 🔗 https://github.com/Thanushya56/Electric-Vehicle-Dashboard-PowerBI |
 | 🤖 **Loan Approval Prediction** | Python, Pandas, Scikit-Learn | 🔗 Repository |
 | 🧬 **Fingerprints-based Blood Group Prediction** | Deep Learning, PyTorch, CNN | 🔗 Repository |
 | 🧠 **Multiple Dashboards Collection** | Power BI, Tableau, Excel | 🔗 Repository |
