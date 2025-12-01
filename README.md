@@ -25,8 +25,6 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github)
